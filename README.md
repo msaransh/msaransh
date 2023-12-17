@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msaransh&label=Profile%20views&color=0e75b6&style=flat" alt="msaransh" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **AngularJS**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Java**
+- 💬 Ask me about **HTML,CSS,JavaScript,Java,ReactJS,Redux,Wordpress**
 
 - 📫 How to reach me **msaransh777@gmail.com**
 
